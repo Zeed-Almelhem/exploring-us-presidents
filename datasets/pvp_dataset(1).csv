@@ -1,0 +1,430 @@
+year,name,party,term,salary,position_title
+1789,"Washington,George",Unaffiliated,First,25000,PRESIDENT OF THE UNITED STATES
+1790,"Washington,George",Unaffiliated,First,25000,PRESIDENT OF THE UNITED STATES
+1791,"Washington,George",Unaffiliated,First,25000,PRESIDENT OF THE UNITED STATES
+1792,"Washington,George",Unaffiliated,First,25000,PRESIDENT OF THE UNITED STATES
+1793,"Washington,George",Unaffiliated,Second,25000,PRESIDENT OF THE UNITED STATES
+1794,"Washington,George",Unaffiliated,Second,25000,PRESIDENT OF THE UNITED STATES
+1795,"Washington,George",Unaffiliated,Second,25000,PRESIDENT OF THE UNITED STATES
+1796,"Washington,George",Unaffiliated,Second,25000,PRESIDENT OF THE UNITED STATES
+1797,"Adams,John",Federalist,First,25000,PRESIDENT OF THE UNITED STATES
+1798,"Adams,John",Federalist,First,25000,PRESIDENT OF THE UNITED STATES
+1799,"Adams,John",Federalist,First,25000,PRESIDENT OF THE UNITED STATES
+1800,"Adams,John",Federalist,First,25000,PRESIDENT OF THE UNITED STATES
+1801,"Jefferson,Thomas",Democratic-Republican,First,25000,PRESIDENT OF THE UNITED STATES
+1802,"Jefferson,Thomas",Democratic-Republican,First,25000,PRESIDENT OF THE UNITED STATES
+1803,"Jefferson,Thomas",Democratic-Republican,First,25000,PRESIDENT OF THE UNITED STATES
+1804,"Jefferson,Thomas",Democratic-Republican,First,25000,PRESIDENT OF THE UNITED STATES
+1805,"Jefferson,Thomas",Democratic-Republican,Second,25000,PRESIDENT OF THE UNITED STATES
+1806,"Jefferson,Thomas",Democratic-Republican,Second,25000,PRESIDENT OF THE UNITED STATES
+1807,"Jefferson,Thomas",Democratic-Republican,Second,25000,PRESIDENT OF THE UNITED STATES
+1808,"Jefferson,Thomas",Democratic-Republican,Second,25000,PRESIDENT OF THE UNITED STATES
+1809,"Madison,James,Jr.",Democratic-Republican,First,25000,PRESIDENT OF THE UNITED STATES
+1810,"Madison,James,Jr.",Democratic-Republican,First,25000,PRESIDENT OF THE UNITED STATES
+1811,"Madison,James,Jr.",Democratic-Republican,First,25000,PRESIDENT OF THE UNITED STATES
+1812,"Madison,James,Jr.",Democratic-Republican,First,25000,PRESIDENT OF THE UNITED STATES
+1813,"Madison,James,Jr.",Democratic-Republican,Second,25000,PRESIDENT OF THE UNITED STATES
+1814,"Madison,James,Jr.",Democratic-Republican,Second,25000,PRESIDENT OF THE UNITED STATES
+1815,"Madison,James,Jr.",Democratic-Republican,Second,25000,PRESIDENT OF THE UNITED STATES
+1816,"Madison,James,Jr.",Democratic-Republican,Second,25000,PRESIDENT OF THE UNITED STATES
+1817,"Monroe,James",Democratic-Republican,First,25000,PRESIDENT OF THE UNITED STATES
+1818,"Monroe,James",Democratic-Republican,First,25000,PRESIDENT OF THE UNITED STATES
+1819,"Monroe,James",Democratic-Republican,First,25000,PRESIDENT OF THE UNITED STATES
+1820,"Monroe,James",Democratic-Republican,First,25000,PRESIDENT OF THE UNITED STATES
+1821,"Monroe,James",Democratic-Republican,Second,25000,PRESIDENT OF THE UNITED STATES
+1822,"Monroe,James",Democratic-Republican,Second,25000,PRESIDENT OF THE UNITED STATES
+1823,"Monroe,James",Democratic-Republican,Second,25000,PRESIDENT OF THE UNITED STATES
+1824,"Monroe,James",Democratic-Republican,Second,25000,PRESIDENT OF THE UNITED STATES
+1825,"Adams,John Quincy",Democratic-Republican,First,25000,PRESIDENT OF THE UNITED STATES
+1826,"Adams,John Quincy",Democratic-Republican,First,25000,PRESIDENT OF THE UNITED STATES
+1827,"Adams,John Quincy",Democratic-Republican,First,25000,PRESIDENT OF THE UNITED STATES
+1828,"Adams,John Quincy",Democratic-Republican,First,25000,PRESIDENT OF THE UNITED STATES
+1829,"Jackson,Andrew",Democratic,First,25000,PRESIDENT OF THE UNITED STATES
+1830,"Jackson,Andrew",Democratic,First,25000,PRESIDENT OF THE UNITED STATES
+1831,"Jackson,Andrew",Democratic,First,25000,PRESIDENT OF THE UNITED STATES
+1832,"Jackson,Andrew",Democratic,First,25000,PRESIDENT OF THE UNITED STATES
+1833,"Jackson,Andrew",Democratic,Second,25000,PRESIDENT OF THE UNITED STATES
+1834,"Jackson,Andrew",Democratic,Second,25000,PRESIDENT OF THE UNITED STATES
+1835,"Jackson,Andrew",Democratic,Second,25000,PRESIDENT OF THE UNITED STATES
+1836,"Jackson,Andrew",Democratic,Second,25000,PRESIDENT OF THE UNITED STATES
+1837,"Van Buren,Martin",Democratic,First,25000,PRESIDENT OF THE UNITED STATES
+1838,"Van Buren,Martin",Democratic,First,25000,PRESIDENT OF THE UNITED STATES
+1839,"Van Buren,Martin",Democratic,First,25000,PRESIDENT OF THE UNITED STATES
+1840,"Van Buren,Martin",Democratic,First,25000,PRESIDENT OF THE UNITED STATES
+1841,"Harrison,William Henry",Whig,First,25000,PRESIDENT OF THE UNITED STATES
+1841,"Tyler,John",Whig,First,25000,PRESIDENT OF THE UNITED STATES
+1842,"Tyler,John",Whig,First,25000,PRESIDENT OF THE UNITED STATES
+1843,"Tyler,John",Whig,First,25000,PRESIDENT OF THE UNITED STATES
+1844,"Tyler,John",Whig,First,25000,PRESIDENT OF THE UNITED STATES
+1845,"Polk,James Knox",Democratic,First,25000,PRESIDENT OF THE UNITED STATES
+1846,"Polk,James Knox",Democratic,First,25000,PRESIDENT OF THE UNITED STATES
+1847,"Polk,James Knox",Democratic,First,25000,PRESIDENT OF THE UNITED STATES
+1848,"Polk,James Knox",Democratic,First,25000,PRESIDENT OF THE UNITED STATES
+1849,"Taylor,Zachary",Whig,First,25000,PRESIDENT OF THE UNITED STATES
+1850,"Fillmore,Millard",Whig,First,25000,PRESIDENT OF THE UNITED STATES
+1851,"Fillmore,Millard",Whig,First,25000,PRESIDENT OF THE UNITED STATES
+1852,"Fillmore,Millard",Whig,First,25000,PRESIDENT OF THE UNITED STATES
+1853,"Pierce,Franklin",Democratic,First,25000,PRESIDENT OF THE UNITED STATES
+1854,"Pierce,Franklin",Democratic,First,25000,PRESIDENT OF THE UNITED STATES
+1855,"Pierce,Franklin",Democratic,First,25000,PRESIDENT OF THE UNITED STATES
+1856,"Pierce,Franklin",Democratic,First,25000,PRESIDENT OF THE UNITED STATES
+1857,"Buchanan,James,Jr.",Democratic,First,25000,PRESIDENT OF THE UNITED STATES
+1858,"Buchanan,James,Jr.",Democratic,First,25000,PRESIDENT OF THE UNITED STATES
+1859,"Buchanan,James,Jr.",Democratic,First,25000,PRESIDENT OF THE UNITED STATES
+1860,"Buchanan,James,Jr.",Democratic,First,25000,PRESIDENT OF THE UNITED STATES
+1861,"Lincoln,Abraham",Republican,First,25000,PRESIDENT OF THE UNITED STATES
+1862,"Lincoln,Abraham",Republican,First,25000,PRESIDENT OF THE UNITED STATES
+1863,"Lincoln,Abraham",Republican,First,25000,PRESIDENT OF THE UNITED STATES
+1864,"Lincoln,Abraham",Republican,First,25000,PRESIDENT OF THE UNITED STATES
+1865,"Lincoln,Abraham",National Union,Second,25000,PRESIDENT OF THE UNITED STATES
+1865,"Johnson,Andrew",National Union,First,25000,PRESIDENT OF THE UNITED STATES
+1869,"Grant,Ulysses Sam",Republican,First,25000,PRESIDENT OF THE UNITED STATES
+1870,"Grant,Ulysses Sam",Republican,First,25000,PRESIDENT OF THE UNITED STATES
+1871,"Grant,Ulysses Sam",Republican,First,25000,PRESIDENT OF THE UNITED STATES
+1872,"Grant,Ulysses Sam",Republican,First,25000,PRESIDENT OF THE UNITED STATES
+1873,"Grant,Ulysses Sam",Republican,Second,50000,PRESIDENT OF THE UNITED STATES
+1874,"Grant,Ulysses Sam",Republican,Second,50000,PRESIDENT OF THE UNITED STATES
+1875,"Grant,Ulysses Sam",Republican,Second,50000,PRESIDENT OF THE UNITED STATES
+1876,"Grant,Ulysses Sam",Republican,Second,50000,PRESIDENT OF THE UNITED STATES
+1877,"Hayes,Rutherford Birchard",Republican,First,50000,PRESIDENT OF THE UNITED STATES
+1878,"Hayes,Rutherford Birchard",Republican,First,50000,PRESIDENT OF THE UNITED STATES
+1879,"Hayes,Rutherford Birchard",Republican,First,50000,PRESIDENT OF THE UNITED STATES
+1890,"Hayes,Rutherford Birchard",Republican,First,50000,PRESIDENT OF THE UNITED STATES
+1881,"Garfield,James Abram",Republican,First,50000,PRESIDENT OF THE UNITED STATES
+1881,"Arthur,Chester Alan",Republican,First,50000,PRESIDENT OF THE UNITED STATES
+1882,"Arthur,Chester Alan",Republican,First,50000,PRESIDENT OF THE UNITED STATES
+1883,"Arthur,Chester Alan",Republican,First,50000,PRESIDENT OF THE UNITED STATES
+1884,"Arthur,Chester Alan",Republican,First,50000,PRESIDENT OF THE UNITED STATES
+1885,"Cleveland,Stephen Grover",Democratic,First,50000,PRESIDENT OF THE UNITED STATES
+1886,"Cleveland,Stephen Grover",Democratic,First,50000,PRESIDENT OF THE UNITED STATES
+1887,"Cleveland,Stephen Grover",Democratic,First,50000,PRESIDENT OF THE UNITED STATES
+1888,"Cleveland,Stephen Grover",Democratic,First,50000,PRESIDENT OF THE UNITED STATES
+1889,"Harrison,Benjamin",Republican,First,50000,PRESIDENT OF THE UNITED STATES
+1890,"Harrison,Benjamin",Republican,First,50000,PRESIDENT OF THE UNITED STATES
+1891,"Harrison,Benjamin",Republican,First,50000,PRESIDENT OF THE UNITED STATES
+1892,"Harrison,Benjamin",Republican,First,50000,PRESIDENT OF THE UNITED STATES
+1893,"Cleveland,Stephen Grover",Democratic,Second,50000,PRESIDENT OF THE UNITED STATES
+1894,"Cleveland,Stephen Grover",Democratic,Second,50000,PRESIDENT OF THE UNITED STATES
+1895,"Cleveland,Stephen Grover",Democratic,Second,50000,PRESIDENT OF THE UNITED STATES
+1896,"Cleveland,Stephen Grover",Democratic,Second,50000,PRESIDENT OF THE UNITED STATES
+1897,"McKinley,William",Republican,First,50000,PRESIDENT OF THE UNITED STATES
+1898,"McKinley,William",Republican,First,50000,PRESIDENT OF THE UNITED STATES
+1899,"McKinley,William",Republican,First,50000,PRESIDENT OF THE UNITED STATES
+1900,"McKinley,William",Republican,First,50000,PRESIDENT OF THE UNITED STATES
+1901,"Roosevelt,Theodore,Jr.",Republican,First,50000,PRESIDENT OF THE UNITED STATES
+1902,"Roosevelt,Theodore,Jr.",Republican,First,50000,PRESIDENT OF THE UNITED STATES
+1903,"Roosevelt,Theodore,Jr.",Republican,First,50000,PRESIDENT OF THE UNITED STATES
+1904,"Roosevelt,Theodore,Jr.",Republican,First,50000,PRESIDENT OF THE UNITED STATES
+1905,"Roosevelt,Theodore,Jr.",Republican,Second,50000,PRESIDENT OF THE UNITED STATES
+1906,"Roosevelt,Theodore,Jr.",Republican,Second,50000,PRESIDENT OF THE UNITED STATES
+1907,"Roosevelt,Theodore,Jr.",Republican,Second,50000,PRESIDENT OF THE UNITED STATES
+1908,"Roosevelt,Theodore,Jr.",Republican,Second,50000,PRESIDENT OF THE UNITED STATES
+1909,"Taft,William Howard",Republican,First,75000,PRESIDENT OF THE UNITED STATES
+1910,"Taft,William Howard",Republican,First,75000,PRESIDENT OF THE UNITED STATES
+1911,"Taft,William Howard",Republican,First,75000,PRESIDENT OF THE UNITED STATES
+1912,"Taft,William Howard",Republican,First,75000,PRESIDENT OF THE UNITED STATES
+1913,"Wilson,Thomas Woodrow",Democratic,First,75000,PRESIDENT OF THE UNITED STATES
+1914,"Wilson,Thomas Woodrow",Democratic,First,75000,PRESIDENT OF THE UNITED STATES
+1915,"Wilson,Thomas Woodrow",Democratic,First,75000,PRESIDENT OF THE UNITED STATES
+1916,"Wilson,Thomas Woodrow",Democratic,First,75000,PRESIDENT OF THE UNITED STATES
+1917,"Wilson,Thomas Woodrow",Democratic,Second,75000,PRESIDENT OF THE UNITED STATES
+1918,"Wilson,Thomas Woodrow",Democratic,Second,75000,PRESIDENT OF THE UNITED STATES
+1919,"Wilson,Thomas Woodrow",Democratic,Second,75000,PRESIDENT OF THE UNITED STATES
+1920,"Wilson,Thomas Woodrow",Democratic,Second,75000,PRESIDENT OF THE UNITED STATES
+1921,"Harding,Warren Gamaliel",Republican,First,75000,PRESIDENT OF THE UNITED STATES
+1922,"Harding,Warren Gamaliel",Republican,First,75000,PRESIDENT OF THE UNITED STATES
+1923,"Coolidge,Calvin",Republican,First,75000,PRESIDENT OF THE UNITED STATES
+1924,"Coolidge,Calvin",Republican,First,75000,PRESIDENT OF THE UNITED STATES
+1925,"Coolidge,Calvin",Republican,First,75000,PRESIDENT OF THE UNITED STATES
+1926,"Coolidge,Calvin",Republican,First,75000,PRESIDENT OF THE UNITED STATES
+1927,"Coolidge,Calvin",Republican,First,75000,PRESIDENT OF THE UNITED STATES
+1928,"Coolidge,Calvin",Republican,First,75000,PRESIDENT OF THE UNITED STATES
+1929,"Hoover,Herbert Clark",Republican,First,75000,PRESIDENT OF THE UNITED STATES
+1930,"Hoover,Herbert Clark",Republican,First,75000,PRESIDENT OF THE UNITED STATES
+1931,"Hoover,Herbert Clark",Republican,First,75000,PRESIDENT OF THE UNITED STATES
+1932,"Hoover,Herbert Clark",Republican,First,75000,PRESIDENT OF THE UNITED STATES
+1933,"Roosevelt,Franklin Delano",Democratic,First,75000,PRESIDENT OF THE UNITED STATES
+1934,"Roosevelt,Franklin Delano",Democratic,First,75000,PRESIDENT OF THE UNITED STATES
+1935,"Roosevelt,Franklin Delano",Democratic,First,75000,PRESIDENT OF THE UNITED STATES
+1936,"Roosevelt,Franklin Delano",Democratic,First,75000,PRESIDENT OF THE UNITED STATES
+1937,"Roosevelt,Franklin Delano",Democratic,Second,75000,PRESIDENT OF THE UNITED STATES
+1938,"Roosevelt,Franklin Delano",Democratic,Second,75000,PRESIDENT OF THE UNITED STATES
+1939,"Roosevelt,Franklin Delano",Democratic,Second,75000,PRESIDENT OF THE UNITED STATES
+1940,"Roosevelt,Franklin Delano",Democratic,Second,75000,PRESIDENT OF THE UNITED STATES
+1941,"Roosevelt,Franklin Delano",Democratic,Third,75000,PRESIDENT OF THE UNITED STATES
+1942,"Roosevelt,Franklin Delano",Democratic,Third,75000,PRESIDENT OF THE UNITED STATES
+1943,"Roosevelt,Franklin Delano",Democratic,Third,75000,PRESIDENT OF THE UNITED STATES
+1944,"Roosevelt,Franklin Delano",Democratic,Third,75000,PRESIDENT OF THE UNITED STATES
+1945,"Truman,Harry S.",Democratic,First,75000,PRESIDENT OF THE UNITED STATES
+1946,"Truman,Harry S.",Democratic,First,75000,PRESIDENT OF THE UNITED STATES
+1947,"Truman,Harry S.",Democratic,First,75000,PRESIDENT OF THE UNITED STATES
+1948,"Truman,Harry S.",Democratic,First,75000,PRESIDENT OF THE UNITED STATES
+1949,"Truman,Harry S.",Democratic,Second,100000,PRESIDENT OF THE UNITED STATES
+1950,"Truman,Harry S.",Democratic,Second,100000,PRESIDENT OF THE UNITED STATES
+1951,"Truman,Harry S.",Democratic,Second,100000,PRESIDENT OF THE UNITED STATES
+1952,"Truman,Harry S.",Democratic,Second,100000,PRESIDENT OF THE UNITED STATES
+1953,"Eisenhower,Dwight David",Republican,First,100000,PRESIDENT OF THE UNITED STATES
+1954,"Eisenhower,Dwight David",Republican,First,100000,PRESIDENT OF THE UNITED STATES
+1955,"Eisenhower,Dwight David",Republican,First,100000,PRESIDENT OF THE UNITED STATES
+1956,"Eisenhower,Dwight David",Republican,First,100000,PRESIDENT OF THE UNITED STATES
+1957,"Eisenhower,Dwight David",Republican,Second,100000,PRESIDENT OF THE UNITED STATES
+1958,"Eisenhower,Dwight David",Republican,Second,100000,PRESIDENT OF THE UNITED STATES
+1959,"Eisenhower,Dwight David",Republican,Second,100000,PRESIDENT OF THE UNITED STATES
+1960,"Eisenhower,Dwight David",Republican,Second,100000,PRESIDENT OF THE UNITED STATES
+1961,"Kennedy,John Fitzgerald",Democratic,First,100000,PRESIDENT OF THE UNITED STATES
+1962,"Kennedy,John Fitzgerald",Democratic,First,100000,PRESIDENT OF THE UNITED STATES
+1963,"Johnson,Lyndon Baines",Democratic,First,100000,PRESIDENT OF THE UNITED STATES
+1964,"Johnson,Lyndon Baines",Democratic,First,100000,PRESIDENT OF THE UNITED STATES
+1965,"Johnson,Lyndon Baines",Democratic,First,100000,PRESIDENT OF THE UNITED STATES
+1966,"Johnson,Lyndon Baines",Democratic,First,100000,PRESIDENT OF THE UNITED STATES
+1967,"Johnson,Lyndon Baines",Democratic,First,100000,PRESIDENT OF THE UNITED STATES
+1968,"Johnson,Lyndon Baines",Democratic,First,100000,PRESIDENT OF THE UNITED STATES
+1969,"Nixon,Richard Milhous",Republican,First,200000,PRESIDENT OF THE UNITED STATES
+1970,"Nixon,Richard Milhous",Republican,First,200000,PRESIDENT OF THE UNITED STATES
+1971,"Nixon,Richard Milhous",Republican,First,200000,PRESIDENT OF THE UNITED STATES
+1972,"Nixon,Richard Milhous",Republican,First,200000,PRESIDENT OF THE UNITED STATES
+1973,"Nixon,Richard Milhous",Republican,Second,200000,PRESIDENT OF THE UNITED STATES
+1974,"Ford,Gerald Rudolph",Republican,First,200000,PRESIDENT OF THE UNITED STATES
+1975,"Ford,Gerald Rudolph",Republican,First,200000,PRESIDENT OF THE UNITED STATES
+1976,"Ford,Gerald Rudolph",Republican,First,200000,PRESIDENT OF THE UNITED STATES
+1977,"Carter,Jimmy Earl,Jr.",Democratic,First,200000,PRESIDENT OF THE UNITED STATES
+1978,"Carter,Jimmy Earl,Jr.",Democratic,First,200000,PRESIDENT OF THE UNITED STATES
+1979,"Carter,Jimmy Earl,Jr.",Democratic,First,200000,PRESIDENT OF THE UNITED STATES
+1980,"Carter,Jimmy Earl,Jr.",Democratic,First,200000,PRESIDENT OF THE UNITED STATES
+1981,"Reagan,Ronald Wilson",Republican,First,200000,PRESIDENT OF THE UNITED STATES
+1982,"Reagan,Ronald Wilson",Republican,First,200000,PRESIDENT OF THE UNITED STATES
+1983,"Reagan,Ronald Wilson",Republican,First,200000,PRESIDENT OF THE UNITED STATES
+1984,"Reagan,Ronald Wilson",Republican,First,200000,PRESIDENT OF THE UNITED STATES
+1985,"Reagan,Ronald Wilson",Republican,Second,200000,PRESIDENT OF THE UNITED STATES
+1986,"Reagan,Ronald Wilson",Republican,Second,200000,PRESIDENT OF THE UNITED STATES
+1987,"Reagan,Ronald Wilson",Republican,Second,200000,PRESIDENT OF THE UNITED STATES
+1988,"Reagan,Ronald Wilson",Republican,Second,200000,PRESIDENT OF THE UNITED STATES
+1989,"Bush,George Herbert Walker",Republican,First,200000,PRESIDENT OF THE UNITED STATES
+1990,"Bush,George Herbert Walker",Republican,First,200000,PRESIDENT OF THE UNITED STATES
+1991,"Bush,George Herbert Walker",Republican,First,200000,PRESIDENT OF THE UNITED STATES
+1992,"Bush,George Herbert Walker",Republican,First,200000,PRESIDENT OF THE UNITED STATES
+1993,"Clinton,William Jefferson",Democratic,Second,200000,PRESIDENT OF THE UNITED STATES
+1994,"Clinton,William Jefferson",Democratic,Second,200000,PRESIDENT OF THE UNITED STATES
+1995,"Clinton,William Jefferson",Democratic,Second,200000,PRESIDENT OF THE UNITED STATES
+1996,"Clinton,William Jefferson",Democratic,Second,200000,PRESIDENT OF THE UNITED STATES
+1997,"Clinton,William Jefferson",Democratic,Second,200000,PRESIDENT OF THE UNITED STATES
+1998,"Clinton,William Jefferson",Democratic,Second,200000,PRESIDENT OF THE UNITED STATES
+1999,"Clinton,William Jefferson",Democratic,Second,200000,PRESIDENT OF THE UNITED STATES
+2000,"Clinton,William Jefferson",Democratic,Second,200000,PRESIDENT OF THE UNITED STATES
+2001,"Bush,George Walker",Republican,First,400000,PRESIDENT OF THE UNITED STATES
+2002,"Bush,George Walker",Republican,First,400000,PRESIDENT OF THE UNITED STATES
+2003,"Bush,George Walker",Republican,First,400000,PRESIDENT OF THE UNITED STATES
+2004,"Bush,George Walker",Republican,First,400000,PRESIDENT OF THE UNITED STATES
+2005,"Bush,George Walker",Republican,Second,400000,PRESIDENT OF THE UNITED STATES
+2006,"Bush,George Walker",Republican,Second,400000,PRESIDENT OF THE UNITED STATES
+2007,"Bush,George Walker",Republican,Second,400000,PRESIDENT OF THE UNITED STATES
+2008,"Bush,George Walker",Republican,Second,400000,PRESIDENT OF THE UNITED STATES
+2009,"Obama,Barack Hussein,II",Democratic,First,400000,PRESIDENT OF THE UNITED STATES
+2010,"Obama,Barack Hussein,II",Democratic,First,400000,PRESIDENT OF THE UNITED STATES
+2011,"Obama,Barack Hussein,II",Democratic,First,400000,PRESIDENT OF THE UNITED STATES
+2012,"Obama,Barack Hussein,II",Democratic,First,400000,PRESIDENT OF THE UNITED STATES
+2013,"Obama,Barack Hussein,II",Democratic,Second,400000,PRESIDENT OF THE UNITED STATES
+2014,"Obama,Barack Hussein,II",Democratic,Second,400000,PRESIDENT OF THE UNITED STATES
+2015,"Obama,Barack Hussein,II",Democratic,Second,400000,PRESIDENT OF THE UNITED STATES
+2016,"Obama,Barack Hussein,II",Democratic,Second,400000,PRESIDENT OF THE UNITED STATES
+2017,"Trump,Donald John",Republican,First,400000,PRESIDENT OF THE UNITED STATES
+2018,"Trump,Donald John",Republican,First,400000,PRESIDENT OF THE UNITED STATES
+2019,"Trump,Donald John",Republican,First,400000,PRESIDENT OF THE UNITED STATES
+2020,"Trump,Donald John",Republican,First,400000,PRESIDENT OF THE UNITED STATES
+1789,"Adams,John",Unaffiliated,First,5000,VICE PRESIDENT OF THE UNITED STATES
+1790,"Adams,John",Unaffiliated,First,5000,VICE PRESIDENT OF THE UNITED STATES
+1791,"Adams,John",Unaffiliated,First,5000,VICE PRESIDENT OF THE UNITED STATES
+1792,"Adams,John",Unaffiliated,First,5000,VICE PRESIDENT OF THE UNITED STATES
+1793,"Adams,John",Unaffiliated,Second,5000,VICE PRESIDENT OF THE UNITED STATES
+1794,"Adams,John",Unaffiliated,Second,5000,VICE PRESIDENT OF THE UNITED STATES
+1795,"Adams,John",Federalist,Second,5000,VICE PRESIDENT OF THE UNITED STATES
+1796,"Adams,John",Federalist,Second,5000,VICE PRESIDENT OF THE UNITED STATES
+1797,"Jefferson,Thomas",Democratic-Republican,First,5000,VICE PRESIDENT OF THE UNITED STATES
+1798,"Jefferson,Thomas",Democratic-Republican,First,5000,VICE PRESIDENT OF THE UNITED STATES
+1799,"Jefferson,Thomas",Democratic-Republican,First,5000,VICE PRESIDENT OF THE UNITED STATES
+1800,"Jefferson,Thomas",Democratic-Republican,First,5000,VICE PRESIDENT OF THE UNITED STATES
+1801,"Burr,Aaron,Jr.",Democratic-Republican,First,5000,VICE PRESIDENT OF THE UNITED STATES
+1802,"Burr,Aaron,Jr.",Democratic-Republican,First,5000,VICE PRESIDENT OF THE UNITED STATES
+1803,"Burr,Aaron,Jr.",Democratic-Republican,First,5000,VICE PRESIDENT OF THE UNITED STATES
+1804,"Burr,Aaron,Jr.",Democratic-Republican,First,5000,VICE PRESIDENT OF THE UNITED STATES
+1805,"Clinton,George",Democratic-Republican,First,5000,VICE PRESIDENT OF THE UNITED STATES
+1806,"Clinton,George",Democratic-Republican,First,5000,VICE PRESIDENT OF THE UNITED STATES
+1807,"Clinton,George",Democratic-Republican,First,5000,VICE PRESIDENT OF THE UNITED STATES
+1808,"Clinton,George",Democratic-Republican,First,5000,VICE PRESIDENT OF THE UNITED STATES
+1809,"Clinton,George",Democratic-Republican,Second,5000,VICE PRESIDENT OF THE UNITED STATES
+1810,"Clinton,George",Democratic-Republican,Second,5000,VICE PRESIDENT OF THE UNITED STATES
+1811,"Clinton,George",Democratic-Republican,Second,5000,VICE PRESIDENT OF THE UNITED STATES
+1813,"Gerry,Elbridge Thomas",Democratic-Republican,First,5000,VICE PRESIDENT OF THE UNITED STATES
+1817,"Tompkins,Daniel D.",Democratic-Republican,First,5000,VICE PRESIDENT OF THE UNITED STATES
+1818,"Tompkins,Daniel D.",Democratic-Republican,First,5000,VICE PRESIDENT OF THE UNITED STATES
+1819,"Tompkins,Daniel D.",Democratic-Republican,First,5000,VICE PRESIDENT OF THE UNITED STATES
+1820,"Tompkins,Daniel D.",Democratic-Republican,First,5000,VICE PRESIDENT OF THE UNITED STATES
+1821,"Tompkins,Daniel D.",Democratic-Republican,Second,5000,VICE PRESIDENT OF THE UNITED STATES
+1822,"Tompkins,Daniel D.",Democratic-Republican,Second,5000,VICE PRESIDENT OF THE UNITED STATES
+1823,"Tompkins,Daniel D.",Democratic-Republican,Second,5000,VICE PRESIDENT OF THE UNITED STATES
+1824,"Tompkins,Daniel D.",Democratic-Republican,Second,5000,VICE PRESIDENT OF THE UNITED STATES
+1825,"Calhoun,John Caldwell",Democratic-Republican,First,5000,VICE PRESIDENT OF THE UNITED STATES
+1826,"Calhoun,John Caldwell",Democratic-Republican,First,5000,VICE PRESIDENT OF THE UNITED STATES
+1827,"Calhoun,John Caldwell",Democratic-Republican,First,5000,VICE PRESIDENT OF THE UNITED STATES
+1828,"Calhoun,John Caldwell",Democratic-Republican,First,5000,VICE PRESIDENT OF THE UNITED STATES
+1829,"Calhoun,John Caldwell",Democratic,Second,5000,VICE PRESIDENT OF THE UNITED STATES
+1830,"Calhoun,John Caldwell",Democratic,Second,5000,VICE PRESIDENT OF THE UNITED STATES
+1831,"Calhoun,John Caldwell",Democratic,Second,5000,VICE PRESIDENT OF THE UNITED STATES
+1832,"Calhoun,John Caldwell",Democratic,Second,5000,VICE PRESIDENT OF THE UNITED STATES
+1833,"Van Buren,Martin",Democratic,First,5000,VICE PRESIDENT OF THE UNITED STATES
+1834,"Van Buren,Martin",Democratic,First,5000,VICE PRESIDENT OF THE UNITED STATES
+1835,"Van Buren,Martin",Democratic,First,5000,VICE PRESIDENT OF THE UNITED STATES
+1836,"Van Buren,Martin",Democratic,First,5000,VICE PRESIDENT OF THE UNITED STATES
+1837,"Johnson,Richard Mentor",Democratic,First,5000,VICE PRESIDENT OF THE UNITED STATES
+1838,"Johnson,Richard Mentor",Democratic,First,5000,VICE PRESIDENT OF THE UNITED STATES
+1839,"Johnson,Richard Mentor",Democratic,First,5000,VICE PRESIDENT OF THE UNITED STATES
+1840,"Johnson,Richard Mentor",Democratic,First,5000,VICE PRESIDENT OF THE UNITED STATES
+1841,"Tyler,John",Whig,First,5000,VICE PRESIDENT OF THE UNITED STATES
+1845,"Dallas,George Mifflin",Democratic,First,5000,VICE PRESIDENT OF THE UNITED STATES
+1846,"Dallas,George Mifflin",Democratic,First,5000,VICE PRESIDENT OF THE UNITED STATES
+1847,"Dallas,George Mifflin",Democratic,First,5000,VICE PRESIDENT OF THE UNITED STATES
+1848,"Dallas,George Mifflin",Democratic,First,5000,VICE PRESIDENT OF THE UNITED STATES
+1849,"Fillmore,Millard",Whig,First,5000,VICE PRESIDENT OF THE UNITED STATES
+1853,"King,William Rufus DeVane",Democratic,First,5000,VICE PRESIDENT OF THE UNITED STATES
+1854,"King,William Rufus DeVane",Democratic,First,5000,VICE PRESIDENT OF THE UNITED STATES
+1855,"King,William Rufus DeVane",Democratic,First,5000,VICE PRESIDENT OF THE UNITED STATES
+1856,"King,William Rufus DeVane",Democratic,First,5000,VICE PRESIDENT OF THE UNITED STATES
+1857,"Breckinridge,John Cabell",Democratic,First,5000,VICE PRESIDENT OF THE UNITED STATES
+1858,"Breckinridge,John Cabell",Democratic,First,5000,VICE PRESIDENT OF THE UNITED STATES
+1859,"Breckinridge,John Cabell",Democratic,First,5000,VICE PRESIDENT OF THE UNITED STATES
+1860,"Breckinridge,John Cabell",Democratic,First,5000,VICE PRESIDENT OF THE UNITED STATES
+1861,"Hamlin,Hannibal",Republican,First,5000,VICE PRESIDENT OF THE UNITED STATES
+1862,"Hamlin,Hannibal",Republican,First,5000,VICE PRESIDENT OF THE UNITED STATES
+1863,"Hamlin,Hannibal",Republican,First,5000,VICE PRESIDENT OF THE UNITED STATES
+1864,"Hamlin,Hannibal",Republican,First,5000,VICE PRESIDENT OF THE UNITED STATES
+1865,"Johnson,Andrew",National Union,First,5000,VICE PRESIDENT OF THE UNITED STATES
+1869,"Colfax,Schuyler,Jr.",Republican,First,5000,VICE PRESIDENT OF THE UNITED STATES
+1870,"Colfax,Schuyler,Jr.",Republican,First,5000,VICE PRESIDENT OF THE UNITED STATES
+1871,"Colfax,Schuyler,Jr.",Republican,First,5000,VICE PRESIDENT OF THE UNITED STATES
+1872,"Colfax,Schuyler,Jr.",Republican,First,5000,VICE PRESIDENT OF THE UNITED STATES
+1873,"Wilson,Henry",Republican,First,10000,VICE PRESIDENT OF THE UNITED STATES
+1874,"Wilson,Henry",Republican,First,10000,VICE PRESIDENT OF THE UNITED STATES
+1877,"Wheeler,William Almon",Republican,First,10000,VICE PRESIDENT OF THE UNITED STATES
+1878,"Wheeler,William Almon",Republican,First,10000,VICE PRESIDENT OF THE UNITED STATES
+1879,"Wheeler,William Almon",Republican,First,10000,VICE PRESIDENT OF THE UNITED STATES
+1890,"Wheeler,William Almon",Republican,First,10000,VICE PRESIDENT OF THE UNITED STATES
+1881,"Arthur,Chester Alan",Republican,First,10000,VICE PRESIDENT OF THE UNITED STATES
+1885,"Hendricks,Thomas Andrews",Democratic,First,10000,VICE PRESIDENT OF THE UNITED STATES
+1889,"Morton,Levi Parsons",Republican,First,10000,VICE PRESIDENT OF THE UNITED STATES
+1890,"Morton,Levi Parsons",Republican,First,10000,VICE PRESIDENT OF THE UNITED STATES
+1891,"Morton,Levi Parsons",Republican,First,10000,VICE PRESIDENT OF THE UNITED STATES
+1892,"Morton,Levi Parsons",Republican,First,10000,VICE PRESIDENT OF THE UNITED STATES
+1893,"Stevenson,Adlai Ewing",Democratic,First,10000,VICE PRESIDENT OF THE UNITED STATES
+1894,"Stevenson,Adlai Ewing",Democratic,First,10000,VICE PRESIDENT OF THE UNITED STATES
+1895,"Stevenson,Adlai Ewing",Democratic,First,10000,VICE PRESIDENT OF THE UNITED STATES
+1896,"Stevenson,Adlai Ewing",Democratic,First,10000,VICE PRESIDENT OF THE UNITED STATES
+1897,"Hobart,Garret Augustus",Republican,First,10000,VICE PRESIDENT OF THE UNITED STATES
+1898,"Hobart,Garret Augustus",Republican,First,10000,VICE PRESIDENT OF THE UNITED STATES
+1901,"Roosevelt,Theodore,Jr.",Republican,First,10000,VICE PRESIDENT OF THE UNITED STATES
+1905,"Fairbanks,Charles Warren",Republican,First,10000,VICE PRESIDENT OF THE UNITED STATES
+1906,"Fairbanks,Charles Warren",Republican,First,12000,VICE PRESIDENT OF THE UNITED STATES
+1907,"Fairbanks,Charles Warren",Republican,First,12000,VICE PRESIDENT OF THE UNITED STATES
+1908,"Fairbanks,Charles Warren",Republican,First,12000,VICE PRESIDENT OF THE UNITED STATES
+1909,"Sherman,James Schoolcraft",Republican,First,12000,VICE PRESIDENT OF THE UNITED STATES
+1910,"Sherman,James Schoolcraft",Republican,First,12000,VICE PRESIDENT OF THE UNITED STATES
+1911,"Sherman,James Schoolcraft",Republican,First,12000,VICE PRESIDENT OF THE UNITED STATES
+1913,"Marshall,Thomas Riley",Democratic,First,12000,VICE PRESIDENT OF THE UNITED STATES
+1914,"Marshall,Thomas Riley",Democratic,First,12000,VICE PRESIDENT OF THE UNITED STATES
+1915,"Marshall,Thomas Riley",Democratic,First,12000,VICE PRESIDENT OF THE UNITED STATES
+1916,"Marshall,Thomas Riley",Democratic,First,12000,VICE PRESIDENT OF THE UNITED STATES
+1917,"Marshall,Thomas Riley",Democratic,Second,12000,VICE PRESIDENT OF THE UNITED STATES
+1918,"Marshall,Thomas Riley",Democratic,Second,12000,VICE PRESIDENT OF THE UNITED STATES
+1919,"Marshall,Thomas Riley",Democratic,Second,12000,VICE PRESIDENT OF THE UNITED STATES
+1920,"Marshall,Thomas Riley",Democratic,Second,12000,VICE PRESIDENT OF THE UNITED STATES
+1921,"Coolidge,Calvin",Republican,First,12000,VICE PRESIDENT OF THE UNITED STATES
+1922,"Coolidge,Calvin",Republican,First,12000,VICE PRESIDENT OF THE UNITED STATES
+1925,"Dawes,Charles Gates",Republican,First,12000,VICE PRESIDENT OF THE UNITED STATES
+1926,"Dawes,Charles Gates",Republican,First,12000,VICE PRESIDENT OF THE UNITED STATES
+1927,"Dawes,Charles Gates",Republican,First,12000,VICE PRESIDENT OF THE UNITED STATES
+1928,"Dawes,Charles Gates",Republican,First,12000,VICE PRESIDENT OF THE UNITED STATES
+1929,"Curtis,Charles",Republican,First,12000,VICE PRESIDENT OF THE UNITED STATES
+1930,"Curtis,Charles",Republican,First,12000,VICE PRESIDENT OF THE UNITED STATES
+1931,"Curtis,Charles",Republican,First,12000,VICE PRESIDENT OF THE UNITED STATES
+1932,"Curtis,Charles",Republican,First,12000,VICE PRESIDENT OF THE UNITED STATES
+1933,"Garner,John Nance,III",Democratic,First,12000,VICE PRESIDENT OF THE UNITED STATES
+1934,"Garner,John Nance,III",Democratic,First,12000,VICE PRESIDENT OF THE UNITED STATES
+1935,"Garner,John Nance,III",Democratic,First,12000,VICE PRESIDENT OF THE UNITED STATES
+1936,"Garner,John Nance,III",Democratic,First,12000,VICE PRESIDENT OF THE UNITED STATES
+1937,"Garner,John Nance,III",Democratic,Second,12000,VICE PRESIDENT OF THE UNITED STATES
+1938,"Garner,John Nance,III",Democratic,Second,12000,VICE PRESIDENT OF THE UNITED STATES
+1939,"Garner,John Nance,III",Democratic,Second,12000,VICE PRESIDENT OF THE UNITED STATES
+1940,"Garner,John Nance,III",Democratic,Second,12000,VICE PRESIDENT OF THE UNITED STATES
+1941,"Wallace,Henry Agard",Democratic,First,12000,VICE PRESIDENT OF THE UNITED STATES
+1942,"Wallace,Henry Agard",Democratic,First,12000,VICE PRESIDENT OF THE UNITED STATES
+1943,"Wallace,Henry Agard",Democratic,First,12000,VICE PRESIDENT OF THE UNITED STATES
+1944,"Truman,Harry S.",Democratic,First,12000,VICE PRESIDENT OF THE UNITED STATES
+1949,"Barkley,Alben William",Democratic,First,30000,VICE PRESIDENT OF THE UNITED STATES
+1950,"Barkley,Alben William",Democratic,First,30000,VICE PRESIDENT OF THE UNITED STATES
+1951,"Barkley,Alben William",Democratic,First,30000,VICE PRESIDENT OF THE UNITED STATES
+1952,"Barkley,Alben William",Democratic,First,30000,VICE PRESIDENT OF THE UNITED STATES
+1953,"Nixon,Richard Milhous",Republican,First,30000,VICE PRESIDENT OF THE UNITED STATES
+1954,"Nixon,Richard Milhous",Republican,First,30000,VICE PRESIDENT OF THE UNITED STATES
+1955,"Nixon,Richard Milhous",Republican,First,30000,VICE PRESIDENT OF THE UNITED STATES
+1956,"Nixon,Richard Milhous",Republican,First,30000,VICE PRESIDENT OF THE UNITED STATES
+1957,"Nixon,Richard Milhous",Republican,Second,30000,VICE PRESIDENT OF THE UNITED STATES
+1958,"Nixon,Richard Milhous",Republican,Second,30000,VICE PRESIDENT OF THE UNITED STATES
+1959,"Nixon,Richard Milhous",Republican,Second,30000,VICE PRESIDENT OF THE UNITED STATES
+1960,"Nixon,Richard Milhous",Republican,Second,30000,VICE PRESIDENT OF THE UNITED STATES
+1961,"Johnson,Lyndon Baines",Democratic,First,35000,VICE PRESIDENT OF THE UNITED STATES
+1962,"Johnson,Lyndon Baines",Democratic,First,35000,VICE PRESIDENT OF THE UNITED STATES
+1965,"Humphrey,Hubert",Democratic,First,43000,VICE PRESIDENT OF THE UNITED STATES
+1966,"Humphrey,Hubert",Democratic,First,43000,VICE PRESIDENT OF THE UNITED STATES
+1967,"Humphrey,Hubert",Democratic,First,43000,VICE PRESIDENT OF THE UNITED STATES
+1968,"Humphrey,Hubert",Democratic,First,43000,VICE PRESIDENT OF THE UNITED STATES
+1969,"Agnew,Spiro Theodore",Republican,First,62500,VICE PRESIDENT OF THE UNITED STATES
+1970,"Agnew,Spiro Theodore",Republican,First,62500,VICE PRESIDENT OF THE UNITED STATES
+1971,"Agnew,Spiro Theodore",Republican,First,62500,VICE PRESIDENT OF THE UNITED STATES
+1972,"Agnew,Spiro Theodore",Republican,First,62500,VICE PRESIDENT OF THE UNITED STATES
+1973,"Ford,Gerald Rudolph",Republican,First,62500,VICE PRESIDENT OF THE UNITED STATES
+1974,"Rockefeller,Nelson Aldrich",Republican,First,62500,VICE PRESIDENT OF THE UNITED STATES
+1975,"Rockefeller,Nelson Aldrich",Republican,First,65600,VICE PRESIDENT OF THE UNITED STATES
+1976,"Rockefeller,Nelson Aldrich",Republican,First,68800,VICE PRESIDENT OF THE UNITED STATES
+1977,"Mondale,Walter Frederick",Democratic,First,75000,VICE PRESIDENT OF THE UNITED STATES
+1978,"Mondale,Walter Frederick",Democratic,First,79100,VICE PRESIDENT OF THE UNITED STATES
+1979,"Mondale,Walter Frederick",Democratic,First,84700,VICE PRESIDENT OF THE UNITED STATES
+1980,"Mondale,Walter Frederick",Democratic,First,92400,VICE PRESIDENT OF THE UNITED STATES
+1981,"Bush,George Herbert Walker",Republican,First,96800,VICE PRESIDENT OF THE UNITED STATES
+1982,"Bush,George Herbert Walker",Republican,First,100700,VICE PRESIDENT OF THE UNITED STATES
+1983,"Bush,George Herbert Walker",Republican,First,100700,VICE PRESIDENT OF THE UNITED STATES
+1984,"Bush,George Herbert Walker",Republican,First,94600,VICE PRESIDENT OF THE UNITED STATES
+1985,"Bush,George Herbert Walker",Republican,Second,97900,VICE PRESIDENT OF THE UNITED STATES
+1986,"Bush,George Herbert Walker",Republican,Second,97900,VICE PRESIDENT OF THE UNITED STATES
+1987,"Bush,George Herbert Walker",Republican,Second,100800,VICE PRESIDENT OF THE UNITED STATES
+1988,"Bush,George Herbert Walker",Republican,Second,115000,VICE PRESIDENT OF THE UNITED STATES
+1989,"Quayle,James Danforth",Republican,First,115000,VICE PRESIDENT OF THE UNITED STATES
+1990,"Quayle,James Danforth",Republican,First,124000,VICE PRESIDENT OF THE UNITED STATES
+1991,"Quayle,James Danforth",Republican,First,160600,VICE PRESIDENT OF THE UNITED STATES
+1992,"Quayle,James Danforth",Republican,First,166200,VICE PRESIDENT OF THE UNITED STATES
+1993,"Gore,Albert Arnold,Jr.",Democratic,First,171500,VICE PRESIDENT OF THE UNITED STATES
+1994,"Gore,Albert Arnold,Jr.",Democratic,First,171500,VICE PRESIDENT OF THE UNITED STATES
+1995,"Gore,Albert Arnold,Jr.",Democratic,First,171500,VICE PRESIDENT OF THE UNITED STATES
+1996,"Gore,Albert Arnold,Jr.",Democratic,First,171500,VICE PRESIDENT OF THE UNITED STATES
+1997,"Gore,Albert Arnold,Jr.",Democratic,Second,171500,VICE PRESIDENT OF THE UNITED STATES
+1998,"Gore,Albert Arnold,Jr.",Democratic,Second,171500,VICE PRESIDENT OF THE UNITED STATES
+1999,"Gore,Albert Arnold,Jr.",Democratic,Second,175400,VICE PRESIDENT OF THE UNITED STATES
+2000,"Gore,Albert Arnold,Jr.",Democratic,Second,181400,VICE PRESIDENT OF THE UNITED STATES
+2001,"Chaney,Richard Bruce",Republican,First,186300,VICE PRESIDENT OF THE UNITED STATES
+2002,"Chaney,Richard Bruce",Republican,First,192600,VICE PRESIDENT OF THE UNITED STATES
+2003,"Chaney,Richard Bruce",Republican,First,198600,VICE PRESIDENT OF THE UNITED STATES
+2004,"Chaney,Richard Bruce",Republican,First,203000,VICE PRESIDENT OF THE UNITED STATES
+2005,"Chaney,Richard Bruce",Republican,Second,208100,VICE PRESIDENT OF THE UNITED STATES
+2006,"Chaney,Richard Bruce",Republican,Second,212100,VICE PRESIDENT OF THE UNITED STATES
+2007,"Chaney,Richard Bruce",Republican,Second,215700,VICE PRESIDENT OF THE UNITED STATES
+2008,"Chaney,Richard Bruce",Republican,Second,221100,VICE PRESIDENT OF THE UNITED STATES
+2009,"Biden,Joseph Robinette,Jr.",Democratic,First,227300,VICE PRESIDENT OF THE UNITED STATES
+2010,"Biden,Joseph Robinette,Jr.",Democratic,First,230700,VICE PRESIDENT OF THE UNITED STATES
+2011,"Biden,Joseph Robinette,Jr.",Democratic,First,230700,VICE PRESIDENT OF THE UNITED STATES
+2012,"Biden,Joseph Robinette,Jr.",Democratic,First,230700,VICE PRESIDENT OF THE UNITED STATES
+2013,"Biden,Joseph Robinette,Jr.",Democratic,Second,230700,VICE PRESIDENT OF THE UNITED STATES
+2014,"Biden,Joseph Robinette,Jr.",Democratic,Second,230700,VICE PRESIDENT OF THE UNITED STATES
+2015,"Biden,Joseph Robinette,Jr.",Democratic,Second,230700,VICE PRESIDENT OF THE UNITED STATES
+2016,"Biden,Joseph Robinette,Jr.",Democratic,Second,230700,VICE PRESIDENT OF THE UNITED STATES
+2017,"Pence,Michael Richard",Republican,First,230700,VICE PRESIDENT OF THE UNITED STATES
+2018,"Pence,Michael Richard",Republican,First,230700,VICE PRESIDENT OF THE UNITED STATES
+2019,"Pence,Michael Richard",Republican,First,235100,VICE PRESIDENT OF THE UNITED STATES
+2020,"Pence,Michael Richard",Republican,First,235100,VICE PRESIDENT OF THE UNITED STATES

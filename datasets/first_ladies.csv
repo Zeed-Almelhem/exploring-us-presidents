@@ -1,0 +1,54 @@
+,relation,name,president,born,death,age_of_death,marriage_date
+0,Husband,Martha Dandridge,George Washington,"June 13, 1731","May 22, 1802",70,"January 6, 1759"
+1,Husband,Abigail Smith,John Adams,"November 22, 1744","October 28, 1818",73,"October 25, 1764"
+2,Father,Martha Jefferson,Thomas Jefferson,"September 27, 1772","October 10, 1836",64,
+3,Husband,Dolley Payne,James Madison,"May 20, 1768","July 12, 1849",81,"September 14, 1794"
+4,Husband,Elizabeth Kortright,James Monroe,"June 30, 1768","September 23, 1830",62,"February 16, 1786"
+5,Husband,Louisa Catherine Johnson,John Quincy Adams,"February 12, 1775","May 15, 1852",77,"July 26, 1797"
+6,Uncle,Emily Donelson,Andrew Jackson,"June 1, 1807","December 19, 1836",29,
+7,Father-in-law,Sarah Yorke,Andrew Jackson,"July 16, 1803","August 23, 1887",84,
+8,Father-in-law,Sarah Angelica Singleton,Martin Van Buren,"February 13, 1818","December 29, 1877",59,
+9,Husband,Anna Tuthill Symmes,William Henry Harrison,"July 25, 1775","February 25, 1864",88,"November 22, 1795"
+10,Father-in-law,Jane Irwin,William Henry Harrison,"July 23, 1804","May 11, 1846",41,
+11,Husband,Letitia Christian,John Tyler,"November 12, 1790","September 10, 1842",51,"March 29, 1813"
+12,Father-in-law,Elizabeth Priscilla Cooper,John Tyler,"June 14, 1816","December 29, 1889",73,
+13,Husband,Julia Gardiner,John Tyler,"May 4, 1820","July 10, 1889",69,"June 26, 1844"
+14,Husband,Sarah Childress,James K. Polk,"September 4, 1803","August 14, 1891",87,"January 1, 1824"
+15,Husband,Margaret Mackall Smith,Zachary Taylor,"September 21, 1788","August 14, 1852",63,"June 21, 1810"
+16,Husband,Abigail Powers,Millard Fillmore,"March 13, 1798","March 30, 1853",55,"February 5, 1826"
+17,Husband,Jane Means Appleton,Franklin Pierce,"March 12, 1806","December 2, 1863",57,"November 19, 1834"
+18,Uncle,Harriet Rebecca Lane,James Buchanan,"May 9, 1830","July 3, 1903",73,
+19,Husband,Mary Ann Todd,Abraham Lincoln,"December 13, 1818","July 16, 1882",63,"November 4, 1842"
+20,Husband,Eliza McCardle,Andrew Johnson,"October 4, 1810","January 15, 1876",65,"May 17, 1827"
+21,Husband,Julia Boggs Dent,Ulysses S. Grant,"January 26, 1826","December 14, 1902",76,"August 22, 1848"
+22,Husband,Lucy Ware Webb,Rutherford B. Hayes,"August 28, 1831","June 25, 1889",57,"December 30, 1852"
+23,Husband,Lucretia Rudolph,James A. Garfield,"April 19, 1832","March 14, 1918",85,"November 11, 1858"
+24,Brother,Mary Arthur McElroy,Chester A. Arthur,"July 5, 1841","January 8, 1917",75,
+25,Brother,Rose Elizabeth Cleveland,Grover Cleveland,"June 13, 1846","November 22, 1918",72,
+26,Husband,Frances Clara Folsom,Grover Cleveland,"July 21, 1864","October 29, 1947",83,"June 2, 1886"
+27,Husband,Caroline Lavinia Scott,Benjamin Harrison,"October 1, 1832","October 25, 1892",60,"October 20, 1853"
+28,Father,Mary Scott Harrison,Benjamin Harrison,"April 3, 1858","October 28, 1930",72,
+29,Husband,Frances Clara Folsom,Grover Cleveland,"July 21, 1864","October 29, 1947",83,"June 2, 1886"
+30,Husband,Ida Saxton,William McKinley,"June 8, 1847","May 26, 1907",59,"January 25, 1871"
+31,Husband,Edith Kermit Carow,Theodore Roosevelt,"August 6, 1861","September 30, 1948",87,"December 2, 1886"
+32,Husband,Helen Louise Herron,William H. Taft,"June 2, 1861","May 22, 1943",81,"June 19, 1886"
+33,Husband,Ellen Louise Axson,Woodrow Wilson,"May 15, 1860","August 6, 1914",54,"June 24, 1885"
+34,Father,Margaret Woodrow Wilson,Woodrow Wilson,"April 16, 1886","February 12, 1944",57,
+35,Husband,Edith Bolling,Woodrow Wilson,"October 15, 1872","December 28, 1961",89,"December 18, 1915"
+36,Husband,Florence Mabel Kling,Warren G. Harding,"August 15, 1860","November 21, 1924",64,"July 8, 1891"
+37,Husband,Grace Anna Goodhue,Calvin Coolidge,"January 3, 1879","July 8, 1957",78,"October 4, 1905"
+38,Husband,Lou Henry,Herbert Hoover,"March 29, 1874","January 7, 1944",69,"February 10, 1899"
+39,Husband,Anna Eleanor Roosevelt,Franklin D. Roosevelt,"October 11, 1884","November 7, 1962",78,"March 17, 1905"
+40,Husband,"Elizabeth Virginia ""Bess"" Wallace",Harry S. Truman,"February 13, 1885","October 18, 1982",97,"June 28, 1919"
+41,Husband,Mamie Geneva Doud,Dwight D. Eisenhower,"November 14, 1896","November 1, 1979",82,"July 1, 1916"
+42,Husband,"Jacqueline ""Jackie"" Lee Bouvier",John F. Kennedy,"July 28, 1929","May 19, 1994",64,"September 12, 1953"
+43,Husband,"Claudia Alta ""Lady Bird"" Taylor",Lyndon B. Johnson,"December 22, 1912","July 11, 2007",94,"November 17, 1934"
+44,Husband,"Thelma ""Pat"" Catherine Ryan",Richard Nixon,"March 16, 1912","June 22, 1993",81,"June 21, 1940"
+45,Husband,"Elizabeth ""Betty"" Ann Bloomer",Gerald Ford,"April 8, 1918","July 8, 2011",93,"October 15, 1948"
+46,Husband,Eleanor Rosalynn Smith,Jimmy Carter,"August 18, 1927 ",,," August 18, 1927"
+47,Husband,Nancy Davis,Ronald Reagan,"July 6, 1921","March 6, 2016",94,"March 4, 1952"
+48,Husband,Barbara Pierce,George H. W. Bush,"June 8, 1925","April 17, 2018",92,"January 6, 1945"
+49,Husband,Hillary Diane Rodham,Bill Clinton,"October 26, 1947",,,"October 26, 1947"
+50,Husband,Laura Lane Welch,George W. Bush,"November 4, 1946",,,"November 4, 1946"
+51,Husband,Michelle LaVaughn Robinson,Barack Obama,"January 17, 1964",,,"January 17, 1964"
+52,Husband,Melanija Knavs,Donald Trump,"April 26, 1970",,,"January 22, 2005"
