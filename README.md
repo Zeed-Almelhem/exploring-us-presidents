@@ -8,7 +8,7 @@ You can also connect with me on [LinkedIn]( https://www.linkedin.com/in/zeed-alm
 
 ## Project Results
 
-To view the HTML output of the project and the associated notebook, please visit [the project's page on my website](https://www.zeed-almelhem.com/us-presidents). Alternatively, you can [click here](https://github.com/YourGitHubUsername/YourRepositoryName) to access the code on GitHub.
+To view the HTML output of the project and the associated notebook, please visit [the project's page on my website](https://www.zeed-almelhem.com/us-presidents). Alternatively, you can [click here](https://github.com/Zeed-Almelhem/exploring-us-presidents/blob/main/US%20Presidents.ipynb) to access the code on GitHub.
 
 ----
 
